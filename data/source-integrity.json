@@ -1,0 +1,17 @@
+{
+  "source": "https://github.com/sam-single/realwaste",
+  "commit_tree_sha": "156e8e9154eeb163df30fcfd767f55b19633bb06",
+  "image_count": 4752,
+  "class_counts": {
+    "Cardboard": 461,
+    "Food Organics": 411,
+    "Glass": 420,
+    "Metal": 790,
+    "Miscellaneous Trash": 495,
+    "Paper": 500,
+    "Plastic": 921,
+    "Textile Trash": 318,
+    "Vegetation": 436
+  },
+  "download_method": "GitHub API tree + raw.githubusercontent.com; resumable per file"
+}

@@ -1,0 +1,714 @@
+relative_path,true_class,predicted_class,confidence,top2,correct
+Food Organics/Food Organics_157.jpg,Food Organics,Food Organics,0.92450255,Food Organics | Miscellaneous Trash,True
+Paper/Paper_2.jpg,Paper,Paper,0.99981004,Paper | Miscellaneous Trash,True
+Metal/Metal_665.jpg,Metal,Metal,0.94430566,Metal | Textile Trash,True
+Glass/Glass_107.jpg,Glass,Glass,0.91102332,Glass | Metal,True
+Vegetation/Vegetation_354.jpg,Vegetation,Vegetation,0.84955889,Vegetation | Miscellaneous Trash,True
+Glass/Glass_154.jpg,Glass,Glass,0.99591762,Glass | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_350.jpg,Miscellaneous Trash,Miscellaneous Trash,0.89674515,Miscellaneous Trash | Vegetation,True
+Glass/Glass_223.jpg,Glass,Glass,0.99563783,Glass | Plastic,True
+Plastic/Plastic_488.jpg,Plastic,Glass,0.41546455,Glass | Metal,False
+Cardboard/Cardboard_363.jpg,Cardboard,Cardboard,0.97543317,Cardboard | Paper,True
+Paper/Paper_205.jpg,Paper,Paper,0.99633658,Paper | Vegetation,True
+Metal/Metal_476.jpg,Metal,Miscellaneous Trash,0.47968146,Miscellaneous Trash | Metal,False
+Metal/Metal_160.jpg,Metal,Metal,0.99928868,Metal | Glass,True
+Plastic/Plastic_179.jpg,Plastic,Glass,0.86079991,Glass | Plastic,False
+Vegetation/Vegetation_218.jpg,Vegetation,Vegetation,0.98808241,Vegetation | Food Organics,True
+Plastic/Plastic_840.jpg,Plastic,Plastic,0.99914551,Plastic | Miscellaneous Trash,True
+Cardboard/Cardboard_350.jpg,Cardboard,Cardboard,0.99572068,Cardboard | Glass,True
+Plastic/Plastic_637.jpg,Plastic,Plastic,0.99182630,Plastic | Miscellaneous Trash,True
+Metal/Metal_771.jpg,Metal,Metal,0.97487712,Metal | Glass,True
+Paper/Paper_327.jpg,Paper,Paper,0.92334026,Paper | Miscellaneous Trash,True
+Plastic/Plastic_226.jpg,Plastic,Metal,0.69398338,Metal | Glass,False
+Paper/Paper_30.jpg,Paper,Paper,0.99635196,Paper | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_93.jpg,Miscellaneous Trash,Miscellaneous Trash,0.72328007,Miscellaneous Trash | Paper,True
+Miscellaneous Trash/Miscellaneous Trash_71.jpg,Miscellaneous Trash,Miscellaneous Trash,0.99494946,Miscellaneous Trash | Food Organics,True
+Plastic/Plastic_3.jpg,Plastic,Plastic,0.59175295,Plastic | Glass,True
+Vegetation/Vegetation_183.jpg,Vegetation,Vegetation,0.99954563,Vegetation | Food Organics,True
+Textile Trash/Textile Trash_84.jpg,Textile Trash,Textile Trash,0.86519027,Textile Trash | Cardboard,True
+Metal/Metal_435.jpg,Metal,Metal,0.99557978,Metal | Paper,True
+Paper/Paper_302.jpg,Paper,Paper,0.98435128,Paper | Miscellaneous Trash,True
+Paper/Paper_492.jpg,Paper,Paper,0.99863094,Paper | Miscellaneous Trash,True
+Metal/Metal_745.jpg,Metal,Metal,0.96733397,Metal | Paper,True
+Vegetation/Vegetation_428.jpg,Vegetation,Vegetation,0.99995351,Vegetation | Food Organics,True
+Miscellaneous Trash/Miscellaneous Trash_195.jpg,Miscellaneous Trash,Textile Trash,0.67156911,Textile Trash | Plastic,False
+Miscellaneous Trash/Miscellaneous Trash_327.jpg,Miscellaneous Trash,Miscellaneous Trash,0.97750300,Miscellaneous Trash | Food Organics,True
+Textile Trash/Textile Trash_279.jpg,Textile Trash,Textile Trash,0.99797553,Textile Trash | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_210.jpg,Miscellaneous Trash,Plastic,0.95832527,Plastic | Miscellaneous Trash,False
+Paper/Paper_208.jpg,Paper,Paper,0.85233968,Paper | Cardboard,True
+Plastic/Plastic_307.jpg,Plastic,Plastic,0.44877514,Plastic | Glass,True
+Miscellaneous Trash/Miscellaneous Trash_108.jpg,Miscellaneous Trash,Miscellaneous Trash,0.94897366,Miscellaneous Trash | Vegetation,True
+Vegetation/Vegetation_150.jpg,Vegetation,Vegetation,0.99324423,Vegetation | Food Organics,True
+Textile Trash/Textile Trash_197.jpg,Textile Trash,Textile Trash,0.94359165,Textile Trash | Miscellaneous Trash,True
+Paper/Paper_444.jpg,Paper,Paper,0.98741120,Paper | Miscellaneous Trash,True
+Plastic/Plastic_244.jpg,Plastic,Plastic,0.91572571,Plastic | Miscellaneous Trash,True
+Plastic/Plastic_439.jpg,Plastic,Plastic,0.98588902,Plastic | Metal,True
+Plastic/Plastic_399.jpg,Plastic,Cardboard,0.56477123,Cardboard | Miscellaneous Trash,False
+Textile Trash/Textile Trash_2.jpg,Textile Trash,Textile Trash,0.97941339,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_575.jpg,Plastic,Plastic,0.98786199,Plastic | Metal,True
+Metal/Metal_776.jpg,Metal,Metal,0.99547404,Metal | Textile Trash,True
+Metal/Metal_225.jpg,Metal,Metal,0.94979453,Metal | Glass,True
+Miscellaneous Trash/Miscellaneous Trash_239.jpg,Miscellaneous Trash,Miscellaneous Trash,0.98648721,Miscellaneous Trash | Cardboard,True
+Vegetation/Vegetation_379.jpg,Vegetation,Vegetation,0.99728835,Vegetation | Food Organics,True
+Plastic/Plastic_35.jpg,Plastic,Plastic,0.87173641,Plastic | Glass,True
+Food Organics/Food Organics_327.jpg,Food Organics,Food Organics,0.95021647,Food Organics | Vegetation,True
+Cardboard/Cardboard_383.jpg,Cardboard,Cardboard,0.99910587,Cardboard | Food Organics,True
+Cardboard/Cardboard_404.jpg,Cardboard,Cardboard,0.99508828,Cardboard | Miscellaneous Trash,True
+Plastic/Plastic_845.jpg,Plastic,Metal,0.98921555,Metal | Miscellaneous Trash,False
+Metal/Metal_570.jpg,Metal,Metal,0.93990481,Metal | Miscellaneous Trash,True
+Metal/Metal_112.jpg,Metal,Metal,0.96804261,Metal | Textile Trash,True
+Cardboard/Cardboard_256.jpg,Cardboard,Cardboard,0.93901503,Cardboard | Paper,True
+Plastic/Plastic_398.jpg,Plastic,Plastic,0.94373548,Plastic | Glass,True
+Food Organics/Food Organics_133.jpg,Food Organics,Miscellaneous Trash,0.52733243,Miscellaneous Trash | Food Organics,False
+Vegetation/Vegetation_358.jpg,Vegetation,Vegetation,0.66157663,Vegetation | Textile Trash,True
+Textile Trash/Textile Trash_48.jpg,Textile Trash,Textile Trash,0.81719136,Textile Trash | Miscellaneous Trash,True
+Textile Trash/Textile Trash_101.jpg,Textile Trash,Textile Trash,0.99426454,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_341.jpg,Plastic,Miscellaneous Trash,0.78691304,Miscellaneous Trash | Metal,False
+Metal/Metal_344.jpg,Metal,Metal,0.83981287,Metal | Miscellaneous Trash,True
+Metal/Metal_406.jpg,Metal,Paper,0.85200268,Paper | Metal,False
+Plastic/Plastic_687.jpg,Plastic,Plastic,0.99731272,Plastic | Miscellaneous Trash,True
+Plastic/Plastic_591.jpg,Plastic,Plastic,0.99955612,Plastic | Miscellaneous Trash,True
+Metal/Metal_653.jpg,Metal,Miscellaneous Trash,0.61244887,Miscellaneous Trash | Metal,False
+Food Organics/Food Organics_39.jpg,Food Organics,Vegetation,0.91121107,Vegetation | Food Organics,False
+Vegetation/Vegetation_180.jpg,Vegetation,Vegetation,0.99995244,Vegetation | Food Organics,True
+Textile Trash/Textile Trash_135.jpg,Textile Trash,Textile Trash,0.71409911,Textile Trash | Paper,True
+Glass/Glass_197.jpg,Glass,Glass,0.99971551,Glass | Metal,True
+Cardboard/Cardboard_348.jpg,Cardboard,Cardboard,0.99931848,Cardboard | Paper,True
+Plastic/Plastic_732.jpg,Plastic,Plastic,0.99103349,Plastic | Miscellaneous Trash,True
+Textile Trash/Textile Trash_62.jpg,Textile Trash,Textile Trash,0.88687301,Textile Trash | Miscellaneous Trash,True
+Metal/Metal_627.jpg,Metal,Metal,0.99698323,Metal | Plastic,True
+Food Organics/Food Organics_145.jpg,Food Organics,Food Organics,0.99048537,Food Organics | Vegetation,True
+Textile Trash/Textile Trash_303.jpg,Textile Trash,Textile Trash,0.99001664,Textile Trash | Miscellaneous Trash,True
+Textile Trash/Textile Trash_29.jpg,Textile Trash,Textile Trash,0.99430567,Textile Trash | Food Organics,True
+Metal/Metal_301.jpg,Metal,Metal,0.87397557,Metal | Glass,True
+Glass/Glass_43.jpg,Glass,Glass,0.79464543,Glass | Plastic,True
+Cardboard/Cardboard_424.jpg,Cardboard,Textile Trash,0.84003228,Textile Trash | Miscellaneous Trash,False
+Miscellaneous Trash/Miscellaneous Trash_335.jpg,Miscellaneous Trash,Miscellaneous Trash,0.71759892,Miscellaneous Trash | Vegetation,True
+Cardboard/Cardboard_214.jpg,Cardboard,Cardboard,0.98611605,Cardboard | Miscellaneous Trash,True
+Cardboard/Cardboard_284.jpg,Cardboard,Paper,0.72453660,Paper | Cardboard,False
+Plastic/Plastic_255.jpg,Plastic,Plastic,0.89832258,Plastic | Glass,True
+Metal/Metal_140.jpg,Metal,Metal,0.52898520,Metal | Miscellaneous Trash,True
+Food Organics/Food Organics_160.jpg,Food Organics,Food Organics,0.99963653,Food Organics | Vegetation,True
+Food Organics/Food Organics_166.jpg,Food Organics,Food Organics,0.99708647,Food Organics | Vegetation,True
+Cardboard/Cardboard_13.jpg,Cardboard,Cardboard,0.87582290,Cardboard | Metal,True
+Food Organics/Food Organics_356.jpg,Food Organics,Food Organics,0.99261218,Food Organics | Vegetation,True
+Glass/Glass_308.jpg,Glass,Glass,0.99453247,Glass | Miscellaneous Trash,True
+Plastic/Plastic_798.jpg,Plastic,Plastic,0.96968186,Plastic | Glass,True
+Vegetation/Vegetation_344.jpg,Vegetation,Vegetation,0.98210859,Vegetation | Textile Trash,True
+Vegetation/Vegetation_98.jpg,Vegetation,Vegetation,0.99992216,Vegetation | Food Organics,True
+Glass/Glass_300.jpg,Glass,Glass,0.99941480,Glass | Metal,True
+Cardboard/Cardboard_51.jpg,Cardboard,Cardboard,0.97342253,Cardboard | Metal,True
+Metal/Metal_743.jpg,Metal,Metal,0.99462986,Metal | Plastic,True
+Metal/Metal_471.jpg,Metal,Metal,0.99755520,Metal | Miscellaneous Trash,True
+Plastic/Plastic_730.jpg,Plastic,Plastic,0.47886273,Plastic | Food Organics,True
+Cardboard/Cardboard_253.jpg,Cardboard,Cardboard,0.88659865,Cardboard | Paper,True
+Plastic/Plastic_365.jpg,Plastic,Glass,0.45717406,Glass | Metal,False
+Vegetation/Vegetation_214.jpg,Vegetation,Vegetation,0.98352247,Vegetation | Food Organics,True
+Metal/Metal_495.jpg,Metal,Plastic,0.96047699,Plastic | Metal,False
+Metal/Metal_38.jpg,Metal,Metal,0.98790342,Metal | Glass,True
+Food Organics/Food Organics_120.jpg,Food Organics,Food Organics,0.76478636,Food Organics | Miscellaneous Trash,True
+Paper/Paper_152.jpg,Paper,Paper,0.47438014,Paper | Plastic,True
+Food Organics/Food Organics_350.jpg,Food Organics,Food Organics,0.99608070,Food Organics | Vegetation,True
+Paper/Paper_349.jpg,Paper,Paper,0.97259277,Paper | Miscellaneous Trash,True
+Cardboard/Cardboard_375.jpg,Cardboard,Metal,0.43747109,Metal | Textile Trash,False
+Miscellaneous Trash/Miscellaneous Trash_426.jpg,Miscellaneous Trash,Glass,0.45650253,Glass | Miscellaneous Trash,False
+Plastic/Plastic_407.jpg,Plastic,Plastic,0.88210315,Plastic | Glass,True
+Glass/Glass_205.jpg,Glass,Glass,0.99988186,Glass | Cardboard,True
+Food Organics/Food Organics_355.jpg,Food Organics,Food Organics,0.91938382,Food Organics | Vegetation,True
+Paper/Paper_52.jpg,Paper,Paper,0.99980778,Paper | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_478.jpg,Miscellaneous Trash,Miscellaneous Trash,0.80595559,Miscellaneous Trash | Metal,True
+Plastic/Plastic_749.jpg,Plastic,Plastic,0.89070970,Plastic | Textile Trash,True
+Glass/Glass_280.jpg,Glass,Glass,0.99561620,Glass | Textile Trash,True
+Plastic/Plastic_391.jpg,Plastic,Food Organics,0.28527856,Food Organics | Plastic,False
+Food Organics/Food Organics_185.jpg,Food Organics,Food Organics,0.99982733,Food Organics | Vegetation,True
+Miscellaneous Trash/Miscellaneous Trash_143.jpg,Miscellaneous Trash,Miscellaneous Trash,0.97122061,Miscellaneous Trash | Plastic,True
+Plastic/Plastic_237.jpg,Plastic,Plastic,0.81785452,Plastic | Glass,True
+Metal/Metal_20.jpg,Metal,Metal,0.99092603,Metal | Miscellaneous Trash,True
+Plastic/Plastic_784.jpg,Plastic,Plastic,0.99234241,Plastic | Miscellaneous Trash,True
+Plastic/Plastic_1.jpg,Plastic,Plastic,0.91999102,Plastic | Paper,True
+Paper/Paper_351.jpg,Paper,Paper,0.99916387,Paper | Textile Trash,True
+Plastic/Plastic_831.jpg,Plastic,Plastic,0.99863547,Plastic | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_297.jpg,Miscellaneous Trash,Miscellaneous Trash,0.54273623,Miscellaneous Trash | Textile Trash,True
+Plastic/Plastic_585.jpg,Plastic,Plastic,0.99018985,Plastic | Miscellaneous Trash,True
+Metal/Metal_69.jpg,Metal,Textile Trash,0.59081078,Textile Trash | Metal,False
+Plastic/Plastic_807.jpg,Plastic,Plastic,0.99460936,Plastic | Miscellaneous Trash,True
+Metal/Metal_345.jpg,Metal,Metal,0.94839221,Metal | Miscellaneous Trash,True
+Plastic/Plastic_65.jpg,Plastic,Plastic,0.98711139,Plastic | Miscellaneous Trash,True
+Paper/Paper_333.jpg,Paper,Paper,0.99883622,Paper | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_407.jpg,Miscellaneous Trash,Textile Trash,0.94844681,Textile Trash | Paper,False
+Plastic/Plastic_121.jpg,Plastic,Plastic,0.99327964,Plastic | Metal,True
+Glass/Glass_78.jpg,Glass,Glass,0.97534049,Glass | Metal,True
+Food Organics/Food Organics_348.jpg,Food Organics,Food Organics,0.99077797,Food Organics | Vegetation,True
+Paper/Paper_456.jpg,Paper,Paper,0.99299628,Paper | Textile Trash,True
+Metal/Metal_762.jpg,Metal,Metal,0.97937918,Metal | Plastic,True
+Metal/Metal_527.jpg,Metal,Metal,0.98583502,Metal | Miscellaneous Trash,True
+Cardboard/Cardboard_434.jpg,Cardboard,Cardboard,0.96448976,Cardboard | Metal,True
+Cardboard/Cardboard_422.jpg,Cardboard,Cardboard,0.98812568,Cardboard | Paper,True
+Metal/Metal_147.jpg,Metal,Metal,0.99543649,Metal | Plastic,True
+Paper/Paper_332.jpg,Paper,Paper,0.99972469,Paper | Metal,True
+Glass/Glass_222.jpg,Glass,Glass,0.99971396,Glass | Metal,True
+Cardboard/Cardboard_66.jpg,Cardboard,Cardboard,0.99346381,Cardboard | Paper,True
+Cardboard/Cardboard_251.jpg,Cardboard,Cardboard,0.99929070,Cardboard | Paper,True
+Textile Trash/Textile Trash_98.jpg,Textile Trash,Textile Trash,0.59674728,Textile Trash | Miscellaneous Trash,True
+Textile Trash/Textile Trash_223.jpg,Textile Trash,Textile Trash,0.98720282,Textile Trash | Miscellaneous Trash,True
+Paper/Paper_244.jpg,Paper,Paper,0.99889201,Paper | Miscellaneous Trash,True
+Food Organics/Food Organics_401.jpg,Food Organics,Food Organics,0.99953783,Food Organics | Vegetation,True
+Metal/Metal_724.jpg,Metal,Metal,0.99106240,Metal | Textile Trash,True
+Glass/Glass_16.jpg,Glass,Glass,0.50060958,Glass | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_218.jpg,Miscellaneous Trash,Food Organics,0.57611430,Food Organics | Miscellaneous Trash,False
+Plastic/Plastic_594.jpg,Plastic,Plastic,0.99924785,Plastic | Miscellaneous Trash,True
+Textile Trash/Textile Trash_127.jpg,Textile Trash,Textile Trash,0.99486428,Textile Trash | Miscellaneous Trash,True
+Glass/Glass_47.jpg,Glass,Glass,0.99504131,Glass | Metal,True
+Food Organics/Food Organics_93.jpg,Food Organics,Food Organics,0.92241228,Food Organics | Miscellaneous Trash,True
+Textile Trash/Textile Trash_291.jpg,Textile Trash,Textile Trash,0.99307418,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_791.jpg,Plastic,Vegetation,0.63770747,Vegetation | Textile Trash,False
+Glass/Glass_45.jpg,Glass,Glass,0.97482717,Glass | Plastic,True
+Food Organics/Food Organics_11.jpg,Food Organics,Food Organics,0.99955994,Food Organics | Vegetation,True
+Miscellaneous Trash/Miscellaneous Trash_390.jpg,Miscellaneous Trash,Miscellaneous Trash,0.99476779,Miscellaneous Trash | Textile Trash,True
+Paper/Paper_237.jpg,Paper,Paper,0.99891579,Paper | Miscellaneous Trash,True
+Cardboard/Cardboard_268.jpg,Cardboard,Cardboard,0.91937852,Cardboard | Metal,True
+Plastic/Plastic_617.jpg,Plastic,Plastic,0.69935137,Plastic | Miscellaneous Trash,True
+Vegetation/Vegetation_255.jpg,Vegetation,Food Organics,0.58655846,Food Organics | Vegetation,False
+Plastic/Plastic_42.jpg,Plastic,Metal,0.73387343,Metal | Miscellaneous Trash,False
+Textile Trash/Textile Trash_133.jpg,Textile Trash,Textile Trash,0.95269388,Textile Trash | Miscellaneous Trash,True
+Glass/Glass_235.jpg,Glass,Glass,0.91154927,Glass | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_414.jpg,Miscellaneous Trash,Miscellaneous Trash,0.55985600,Miscellaneous Trash | Textile Trash,True
+Vegetation/Vegetation_267.jpg,Vegetation,Vegetation,0.99988580,Vegetation | Food Organics,True
+Metal/Metal_124.jpg,Metal,Metal,0.99686486,Metal | Textile Trash,True
+Plastic/Plastic_824.jpg,Plastic,Plastic,0.63885760,Plastic | Glass,True
+Vegetation/Vegetation_209.jpg,Vegetation,Vegetation,0.97056234,Vegetation | Food Organics,True
+Plastic/Plastic_464.jpg,Plastic,Plastic,0.82859969,Plastic | Miscellaneous Trash,True
+Metal/Metal_54.jpg,Metal,Metal,0.70993179,Metal | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_291.jpg,Miscellaneous Trash,Miscellaneous Trash,0.98547840,Miscellaneous Trash | Metal,True
+Metal/Metal_224.jpg,Metal,Metal,0.99527079,Metal | Miscellaneous Trash,True
+Food Organics/Food Organics_76.jpg,Food Organics,Food Organics,0.87458044,Food Organics | Vegetation,True
+Metal/Metal_279.jpg,Metal,Metal,0.96146476,Metal | Glass,True
+Cardboard/Cardboard_436.jpg,Cardboard,Cardboard,0.96498322,Cardboard | Paper,True
+Metal/Metal_503.jpg,Metal,Metal,0.99604034,Metal | Miscellaneous Trash,True
+Glass/Glass_362.jpg,Glass,Glass,0.99907696,Glass | Plastic,True
+Plastic/Plastic_593.jpg,Plastic,Plastic,0.99838185,Plastic | Miscellaneous Trash,True
+Plastic/Plastic_724.jpg,Plastic,Plastic,0.97944278,Plastic | Miscellaneous Trash,True
+Metal/Metal_519.jpg,Metal,Metal,0.98175806,Metal | Glass,True
+Miscellaneous Trash/Miscellaneous Trash_117.jpg,Miscellaneous Trash,Metal,0.49394518,Metal | Miscellaneous Trash,False
+Food Organics/Food Organics_237.jpg,Food Organics,Food Organics,0.99221671,Food Organics | Vegetation,True
+Vegetation/Vegetation_133.jpg,Vegetation,Vegetation,0.99960691,Vegetation | Food Organics,True
+Glass/Glass_304.jpg,Glass,Glass,0.99973971,Glass | Metal,True
+Vegetation/Vegetation_137.jpg,Vegetation,Vegetation,0.99917150,Vegetation | Food Organics,True
+Metal/Metal_757.jpg,Metal,Metal,0.75662804,Metal | Plastic,True
+Plastic/Plastic_438.jpg,Plastic,Plastic,0.99705029,Plastic | Textile Trash,True
+Paper/Paper_452.jpg,Paper,Paper,0.99117434,Paper | Miscellaneous Trash,True
+Vegetation/Vegetation_325.jpg,Vegetation,Vegetation,0.99888366,Vegetation | Textile Trash,True
+Plastic/Plastic_907.jpg,Plastic,Plastic,0.99604875,Plastic | Glass,True
+Textile Trash/Textile Trash_120.jpg,Textile Trash,Textile Trash,0.99228352,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_477.jpg,Plastic,Plastic,0.92753327,Plastic | Miscellaneous Trash,True
+Cardboard/Cardboard_342.jpg,Cardboard,Cardboard,0.99941039,Cardboard | Paper,True
+Glass/Glass_297.jpg,Glass,Glass,0.99391538,Glass | Metal,True
+Cardboard/Cardboard_58.jpg,Cardboard,Cardboard,0.99432981,Cardboard | Miscellaneous Trash,True
+Cardboard/Cardboard_372.jpg,Cardboard,Cardboard,0.93588030,Cardboard | Miscellaneous Trash,True
+Textile Trash/Textile Trash_167.jpg,Textile Trash,Textile Trash,0.89176691,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_115.jpg,Plastic,Plastic,0.77435851,Plastic | Miscellaneous Trash,True
+Cardboard/Cardboard_10.jpg,Cardboard,Cardboard,0.99699724,Cardboard | Glass,True
+Glass/Glass_25.jpg,Glass,Vegetation,0.75011837,Vegetation | Miscellaneous Trash,False
+Miscellaneous Trash/Miscellaneous Trash_242.jpg,Miscellaneous Trash,Miscellaneous Trash,0.96722758,Miscellaneous Trash | Cardboard,True
+Glass/Glass_302.jpg,Glass,Glass,0.99982136,Glass | Metal,True
+Glass/Glass_111.jpg,Glass,Glass,0.96706957,Glass | Textile Trash,True
+Glass/Glass_101.jpg,Glass,Glass,0.86478990,Glass | Vegetation,True
+Plastic/Plastic_640.jpg,Plastic,Miscellaneous Trash,0.49947509,Miscellaneous Trash | Plastic,False
+Metal/Metal_616.jpg,Metal,Metal,0.99708718,Metal | Plastic,True
+Cardboard/Cardboard_83.jpg,Cardboard,Cardboard,0.67683065,Cardboard | Metal,True
+Food Organics/Food Organics_27.jpg,Food Organics,Food Organics,0.95074707,Food Organics | Miscellaneous Trash,True
+Metal/Metal_650.jpg,Metal,Metal,0.99878830,Metal | Textile Trash,True
+Metal/Metal_396.jpg,Metal,Metal,0.53690171,Metal | Vegetation,True
+Plastic/Plastic_197.jpg,Plastic,Metal,0.95051450,Metal | Plastic,False
+Textile Trash/Textile Trash_290.jpg,Textile Trash,Textile Trash,0.99367356,Textile Trash | Paper,True
+Cardboard/Cardboard_179.jpg,Cardboard,Cardboard,0.89911145,Cardboard | Paper,True
+Plastic/Plastic_476.jpg,Plastic,Plastic,0.99686277,Plastic | Glass,True
+Metal/Metal_547.jpg,Metal,Metal,0.71181071,Metal | Miscellaneous Trash,True
+Paper/Paper_465.jpg,Paper,Paper,0.99823260,Paper | Miscellaneous Trash,True
+Paper/Paper_133.jpg,Paper,Glass,0.70018905,Glass | Paper,False
+Vegetation/Vegetation_36.jpg,Vegetation,Vegetation,0.99990249,Vegetation | Food Organics,True
+Metal/Metal_236.jpg,Metal,Metal,0.99568850,Metal | Glass,True
+Miscellaneous Trash/Miscellaneous Trash_140.jpg,Miscellaneous Trash,Textile Trash,0.89467281,Textile Trash | Miscellaneous Trash,False
+Miscellaneous Trash/Miscellaneous Trash_249.jpg,Miscellaneous Trash,Miscellaneous Trash,0.94160515,Miscellaneous Trash | Textile Trash,True
+Miscellaneous Trash/Miscellaneous Trash_246.jpg,Miscellaneous Trash,Miscellaneous Trash,0.79349691,Miscellaneous Trash | Textile Trash,True
+Cardboard/Cardboard_146.jpg,Cardboard,Cardboard,0.71268636,Cardboard | Paper,True
+Food Organics/Food Organics_32.jpg,Food Organics,Food Organics,0.98147708,Food Organics | Miscellaneous Trash,True
+Glass/Glass_130.jpg,Glass,Paper,0.58320004,Paper | Miscellaneous Trash,False
+Plastic/Plastic_502.jpg,Plastic,Glass,0.99786478,Glass | Plastic,False
+Miscellaneous Trash/Miscellaneous Trash_222.jpg,Miscellaneous Trash,Miscellaneous Trash,0.79747319,Miscellaneous Trash | Metal,True
+Metal/Metal_242.jpg,Metal,Metal,0.50665796,Metal | Plastic,True
+Metal/Metal_540.jpg,Metal,Metal,0.99980205,Metal | Textile Trash,True
+Paper/Paper_409.jpg,Paper,Paper,0.61533123,Paper | Textile Trash,True
+Glass/Glass_392.jpg,Glass,Glass,0.63751924,Glass | Metal,True
+Plastic/Plastic_605.jpg,Plastic,Plastic,0.76596469,Plastic | Glass,True
+Plastic/Plastic_193.jpg,Plastic,Plastic,0.92158705,Plastic | Miscellaneous Trash,True
+Cardboard/Cardboard_79.jpg,Cardboard,Cardboard,0.99930286,Cardboard | Paper,True
+Paper/Paper_329.jpg,Paper,Paper,0.98696297,Paper | Metal,True
+Food Organics/Food Organics_312.jpg,Food Organics,Vegetation,0.82262665,Vegetation | Food Organics,False
+Metal/Metal_56.jpg,Metal,Metal,0.99519473,Metal | Glass,True
+Plastic/Plastic_353.jpg,Plastic,Plastic,0.84364069,Plastic | Glass,True
+Plastic/Plastic_698.jpg,Plastic,Plastic,0.77002925,Plastic | Miscellaneous Trash,True
+Cardboard/Cardboard_269.jpg,Cardboard,Cardboard,0.99861705,Cardboard | Glass,True
+Glass/Glass_61.jpg,Glass,Glass,0.69230449,Glass | Metal,True
+Paper/Paper_3.jpg,Paper,Paper,0.99995148,Paper | Textile Trash,True
+Plastic/Plastic_195.jpg,Plastic,Miscellaneous Trash,0.50928926,Miscellaneous Trash | Textile Trash,False
+Vegetation/Vegetation_160.jpg,Vegetation,Vegetation,0.99982649,Vegetation | Food Organics,True
+Vegetation/Vegetation_371.jpg,Vegetation,Vegetation,0.99977022,Vegetation | Food Organics,True
+Vegetation/Vegetation_266.jpg,Vegetation,Vegetation,0.99985266,Vegetation | Food Organics,True
+Metal/Metal_788.jpg,Metal,Metal,0.99973041,Metal | Miscellaneous Trash,True
+Cardboard/Cardboard_194.jpg,Cardboard,Cardboard,0.90169430,Cardboard | Miscellaneous Trash,True
+Food Organics/Food Organics_51.jpg,Food Organics,Food Organics,0.94893378,Food Organics | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_482.jpg,Miscellaneous Trash,Miscellaneous Trash,0.72672522,Miscellaneous Trash | Vegetation,True
+Glass/Glass_176.jpg,Glass,Glass,0.99953461,Glass | Metal,True
+Plastic/Plastic_700.jpg,Plastic,Plastic,0.98106879,Plastic | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_409.jpg,Miscellaneous Trash,Plastic,0.91539484,Plastic | Miscellaneous Trash,False
+Plastic/Plastic_567.jpg,Plastic,Glass,0.92213655,Glass | Plastic,False
+Paper/Paper_233.jpg,Paper,Paper,0.99835902,Paper | Miscellaneous Trash,True
+Glass/Glass_95.jpg,Glass,Glass,0.96628791,Glass | Plastic,True
+Miscellaneous Trash/Miscellaneous Trash_370.jpg,Miscellaneous Trash,Textile Trash,0.85273099,Textile Trash | Miscellaneous Trash,False
+Paper/Paper_305.jpg,Paper,Paper,0.67067647,Paper | Miscellaneous Trash,True
+Cardboard/Cardboard_306.jpg,Cardboard,Paper,0.53687066,Paper | Cardboard,False
+Textile Trash/Textile Trash_125.jpg,Textile Trash,Textile Trash,0.95605707,Textile Trash | Metal,True
+Textile Trash/Textile Trash_40.jpg,Textile Trash,Textile Trash,0.87819362,Textile Trash | Paper,True
+Miscellaneous Trash/Miscellaneous Trash_436.jpg,Miscellaneous Trash,Glass,0.93995965,Glass | Metal,False
+Metal/Metal_722.jpg,Metal,Metal,0.99953961,Metal | Glass,True
+Metal/Metal_646.jpg,Metal,Metal,0.99891007,Metal | Plastic,True
+Glass/Glass_19.jpg,Glass,Miscellaneous Trash,0.40672228,Miscellaneous Trash | Glass,False
+Plastic/Plastic_171.jpg,Plastic,Miscellaneous Trash,0.71458340,Miscellaneous Trash | Plastic,False
+Vegetation/Vegetation_378.jpg,Vegetation,Vegetation,0.92277336,Vegetation | Textile Trash,True
+Vegetation/Vegetation_147.jpg,Vegetation,Vegetation,0.99966002,Vegetation | Food Organics,True
+Metal/Metal_625.jpg,Metal,Metal,0.99919671,Metal | Paper,True
+Paper/Paper_445.jpg,Paper,Paper,0.99907839,Paper | Miscellaneous Trash,True
+Food Organics/Food Organics_37.jpg,Food Organics,Vegetation,0.50481755,Vegetation | Food Organics,False
+Metal/Metal_736.jpg,Metal,Metal,0.81773812,Metal | Cardboard,True
+Glass/Glass_310.jpg,Glass,Glass,0.99992156,Glass | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_315.jpg,Miscellaneous Trash,Miscellaneous Trash,0.92202455,Miscellaneous Trash | Metal,True
+Food Organics/Food Organics_183.jpg,Food Organics,Food Organics,0.98460519,Food Organics | Miscellaneous Trash,True
+Plastic/Plastic_217.jpg,Plastic,Plastic,0.93757081,Plastic | Glass,True
+Miscellaneous Trash/Miscellaneous Trash_351.jpg,Miscellaneous Trash,Miscellaneous Trash,0.85673136,Miscellaneous Trash | Paper,True
+Glass/Glass_161.jpg,Glass,Glass,0.99491477,Glass | Metal,True
+Metal/Metal_439.jpg,Metal,Metal,0.99906009,Metal | Miscellaneous Trash,True
+Textile Trash/Textile Trash_287.jpg,Textile Trash,Textile Trash,0.99684745,Textile Trash | Miscellaneous Trash,True
+Food Organics/Food Organics_411.jpg,Food Organics,Food Organics,0.81736678,Food Organics | Vegetation,True
+Cardboard/Cardboard_41.jpg,Cardboard,Cardboard,0.99996996,Cardboard | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_237.jpg,Miscellaneous Trash,Miscellaneous Trash,0.92870545,Miscellaneous Trash | Plastic,True
+Vegetation/Vegetation_45.jpg,Vegetation,Vegetation,0.98196560,Vegetation | Food Organics,True
+Metal/Metal_456.jpg,Metal,Metal,0.98987550,Metal | Plastic,True
+Metal/Metal_148.jpg,Metal,Metal,0.77891213,Metal | Miscellaneous Trash,True
+Vegetation/Vegetation_182.jpg,Vegetation,Vegetation,0.99036521,Vegetation | Food Organics,True
+Cardboard/Cardboard_148.jpg,Cardboard,Cardboard,0.56598651,Cardboard | Food Organics,True
+Metal/Metal_293.jpg,Metal,Metal,0.54499400,Metal | Vegetation,True
+Glass/Glass_260.jpg,Glass,Glass,0.96351564,Glass | Plastic,True
+Metal/Metal_197.jpg,Metal,Metal,0.99691236,Metal | Textile Trash,True
+Vegetation/Vegetation_40.jpg,Vegetation,Vegetation,0.72398311,Vegetation | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_316.jpg,Miscellaneous Trash,Miscellaneous Trash,0.53830123,Miscellaneous Trash | Paper,True
+Glass/Glass_11.jpg,Glass,Metal,0.48071912,Metal | Glass,False
+Paper/Paper_451.jpg,Paper,Paper,0.85835683,Paper | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_243.jpg,Miscellaneous Trash,Miscellaneous Trash,0.98623902,Miscellaneous Trash | Metal,True
+Textile Trash/Textile Trash_27.jpg,Textile Trash,Textile Trash,0.68223691,Textile Trash | Vegetation,True
+Food Organics/Food Organics_26.jpg,Food Organics,Food Organics,0.98699343,Food Organics | Vegetation,True
+Paper/Paper_421.jpg,Paper,Paper,0.99056226,Paper | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_301.jpg,Miscellaneous Trash,Miscellaneous Trash,0.97670186,Miscellaneous Trash | Textile Trash,True
+Miscellaneous Trash/Miscellaneous Trash_115.jpg,Miscellaneous Trash,Miscellaneous Trash,0.98861921,Miscellaneous Trash | Food Organics,True
+Cardboard/Cardboard_195.jpg,Cardboard,Cardboard,0.95505488,Cardboard | Paper,True
+Paper/Paper_370.jpg,Paper,Paper,0.84501928,Paper | Miscellaneous Trash,True
+Food Organics/Food Organics_308.jpg,Food Organics,Food Organics,0.99162781,Food Organics | Vegetation,True
+Cardboard/Cardboard_96.jpg,Cardboard,Cardboard,0.63981187,Cardboard | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_203.jpg,Miscellaneous Trash,Miscellaneous Trash,0.94494742,Miscellaneous Trash | Metal,True
+Plastic/Plastic_393.jpg,Plastic,Miscellaneous Trash,0.54301888,Miscellaneous Trash | Plastic,False
+Metal/Metal_694.jpg,Metal,Metal,0.99948621,Metal | Glass,True
+Metal/Metal_764.jpg,Metal,Metal,0.98577368,Metal | Glass,True
+Plastic/Plastic_99.jpg,Plastic,Metal,0.99106544,Metal | Plastic,False
+Metal/Metal_708.jpg,Metal,Miscellaneous Trash,0.64396966,Miscellaneous Trash | Cardboard,False
+Metal/Metal_408.jpg,Metal,Metal,0.97891492,Metal | Miscellaneous Trash,True
+Metal/Metal_39.jpg,Metal,Metal,0.99329871,Metal | Plastic,True
+Metal/Metal_359.jpg,Metal,Metal,0.99921262,Metal | Miscellaneous Trash,True
+Textile Trash/Textile Trash_174.jpg,Textile Trash,Textile Trash,0.99949181,Textile Trash | Metal,True
+Plastic/Plastic_779.jpg,Plastic,Cardboard,0.76895171,Cardboard | Metal,False
+Paper/Paper_214.jpg,Paper,Paper,0.99905747,Paper | Textile Trash,True
+Miscellaneous Trash/Miscellaneous Trash_38.jpg,Miscellaneous Trash,Miscellaneous Trash,0.99838817,Miscellaneous Trash | Metal,True
+Textile Trash/Textile Trash_280.jpg,Textile Trash,Textile Trash,0.95447254,Textile Trash | Vegetation,True
+Plastic/Plastic_862.jpg,Plastic,Plastic,0.60923374,Plastic | Glass,True
+Cardboard/Cardboard_446.jpg,Cardboard,Cardboard,0.99898988,Cardboard | Glass,True
+Cardboard/Cardboard_414.jpg,Cardboard,Cardboard,0.73527825,Cardboard | Paper,True
+Textile Trash/Textile Trash_25.jpg,Textile Trash,Textile Trash,0.99992955,Textile Trash | Paper,True
+Plastic/Plastic_635.jpg,Plastic,Plastic,0.86281478,Plastic | Miscellaneous Trash,True
+Food Organics/Food Organics_30.jpg,Food Organics,Food Organics,0.98964649,Food Organics | Miscellaneous Trash,True
+Food Organics/Food Organics_228.jpg,Food Organics,Miscellaneous Trash,0.92167312,Miscellaneous Trash | Food Organics,False
+Cardboard/Cardboard_8.jpg,Cardboard,Cardboard,0.99700028,Cardboard | Miscellaneous Trash,True
+Glass/Glass_281.jpg,Glass,Glass,0.99947721,Glass | Textile Trash,True
+Food Organics/Food Organics_396.jpg,Food Organics,Food Organics,0.98983812,Food Organics | Miscellaneous Trash,True
+Food Organics/Food Organics_182.jpg,Food Organics,Food Organics,0.99882489,Food Organics | Vegetation,True
+Vegetation/Vegetation_259.jpg,Vegetation,Vegetation,0.99998450,Vegetation | Food Organics,True
+Vegetation/Vegetation_234.jpg,Vegetation,Vegetation,0.99713254,Vegetation | Food Organics,True
+Plastic/Plastic_857.jpg,Plastic,Plastic,0.90659881,Plastic | Metal,True
+Paper/Paper_298.jpg,Paper,Paper,0.99981195,Paper | Textile Trash,True
+Metal/Metal_166.jpg,Metal,Metal,0.99974841,Metal | Miscellaneous Trash,True
+Metal/Metal_460.jpg,Metal,Metal,0.99965620,Metal | Miscellaneous Trash,True
+Metal/Metal_678.jpg,Metal,Metal,0.91766393,Metal | Plastic,True
+Plastic/Plastic_753.jpg,Plastic,Miscellaneous Trash,0.97463077,Miscellaneous Trash | Plastic,False
+Plastic/Plastic_579.jpg,Plastic,Plastic,0.50021666,Plastic | Food Organics,True
+Food Organics/Food Organics_282.jpg,Food Organics,Food Organics,0.96663606,Food Organics | Vegetation,True
+Cardboard/Cardboard_188.jpg,Cardboard,Paper,0.66508871,Paper | Cardboard,False
+Cardboard/Cardboard_56.jpg,Cardboard,Cardboard,0.96319103,Cardboard | Paper,True
+Plastic/Plastic_914.jpg,Plastic,Plastic,0.81951773,Plastic | Glass,True
+Metal/Metal_171.jpg,Metal,Miscellaneous Trash,0.56440157,Miscellaneous Trash | Food Organics,False
+Paper/Paper_411.jpg,Paper,Paper,0.98340350,Paper | Cardboard,True
+Miscellaneous Trash/Miscellaneous Trash_378.jpg,Miscellaneous Trash,Vegetation,0.97266757,Vegetation | Miscellaneous Trash,False
+Plastic/Plastic_800.jpg,Plastic,Plastic,0.41107857,Plastic | Metal,True
+Paper/Paper_317.jpg,Paper,Paper,0.98115796,Paper | Metal,True
+Paper/Paper_429.jpg,Paper,Textile Trash,0.63923955,Textile Trash | Miscellaneous Trash,False
+Glass/Glass_419.jpg,Glass,Glass,0.74640417,Glass | Metal,True
+Plastic/Plastic_354.jpg,Plastic,Metal,0.53064919,Metal | Plastic,False
+Paper/Paper_217.jpg,Paper,Paper,0.98539954,Paper | Miscellaneous Trash,True
+Paper/Paper_192.jpg,Paper,Paper,0.70663548,Paper | Cardboard,True
+Miscellaneous Trash/Miscellaneous Trash_463.jpg,Miscellaneous Trash,Miscellaneous Trash,0.98249233,Miscellaneous Trash | Textile Trash,True
+Glass/Glass_211.jpg,Glass,Glass,0.98972827,Glass | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_207.jpg,Miscellaneous Trash,Metal,0.45938313,Metal | Miscellaneous Trash,False
+Textile Trash/Textile Trash_100.jpg,Textile Trash,Textile Trash,0.99720722,Textile Trash | Miscellaneous Trash,True
+Metal/Metal_55.jpg,Metal,Metal,0.93981594,Metal | Glass,True
+Cardboard/Cardboard_408.jpg,Cardboard,Cardboard,0.99831223,Cardboard | Paper,True
+Cardboard/Cardboard_409.jpg,Cardboard,Cardboard,0.99885166,Cardboard | Glass,True
+Miscellaneous Trash/Miscellaneous Trash_360.jpg,Miscellaneous Trash,Miscellaneous Trash,0.98884982,Miscellaneous Trash | Food Organics,True
+Glass/Glass_1.jpg,Glass,Glass,0.99537367,Glass | Metal,True
+Vegetation/Vegetation_25.jpg,Vegetation,Vegetation,0.99952781,Vegetation | Food Organics,True
+Plastic/Plastic_348.jpg,Plastic,Paper,0.54783249,Paper | Cardboard,False
+Plastic/Plastic_740.jpg,Plastic,Plastic,0.54184246,Plastic | Miscellaneous Trash,True
+Metal/Metal_676.jpg,Metal,Metal,0.88000047,Metal | Miscellaneous Trash,True
+Metal/Metal_318.jpg,Metal,Plastic,0.69416058,Plastic | Metal,False
+Paper/Paper_287.jpg,Paper,Paper,0.87198782,Paper | Cardboard,True
+Glass/Glass_389.jpg,Glass,Glass,0.78359354,Glass | Plastic,True
+Vegetation/Vegetation_26.jpg,Vegetation,Vegetation,0.99772078,Vegetation | Food Organics,True
+Food Organics/Food Organics_337.jpg,Food Organics,Food Organics,0.98805153,Food Organics | Vegetation,True
+Metal/Metal_719.jpg,Metal,Metal,0.99905282,Metal | Plastic,True
+Vegetation/Vegetation_336.jpg,Vegetation,Vegetation,0.99851006,Vegetation | Food Organics,True
+Vegetation/Vegetation_285.jpg,Vegetation,Vegetation,0.99984944,Vegetation | Food Organics,True
+Glass/Glass_379.jpg,Glass,Glass,0.97530907,Glass | Metal,True
+Plastic/Plastic_328.jpg,Plastic,Glass,0.54325700,Glass | Plastic,False
+Plastic/Plastic_405.jpg,Plastic,Plastic,0.80104965,Plastic | Metal,True
+Cardboard/Cardboard_143.jpg,Cardboard,Cardboard,0.77459025,Cardboard | Paper,True
+Glass/Glass_174.jpg,Glass,Glass,0.99861777,Glass | Metal,True
+Vegetation/Vegetation_217.jpg,Vegetation,Food Organics,0.60711563,Food Organics | Vegetation,False
+Cardboard/Cardboard_244.jpg,Cardboard,Cardboard,0.99378258,Cardboard | Metal,True
+Paper/Paper_161.jpg,Paper,Paper,0.54449749,Paper | Cardboard,True
+Metal/Metal_440.jpg,Metal,Metal,0.92128927,Metal | Miscellaneous Trash,True
+Vegetation/Vegetation_430.jpg,Vegetation,Vegetation,0.99968588,Vegetation | Food Organics,True
+Paper/Paper_269.jpg,Paper,Paper,0.99116957,Paper | Miscellaneous Trash,True
+Vegetation/Vegetation_207.jpg,Vegetation,Vegetation,0.96961796,Vegetation | Food Organics,True
+Metal/Metal_773.jpg,Metal,Metal,0.99984372,Metal | Paper,True
+Miscellaneous Trash/Miscellaneous Trash_233.jpg,Miscellaneous Trash,Miscellaneous Trash,0.81394631,Miscellaneous Trash | Food Organics,True
+Miscellaneous Trash/Miscellaneous Trash_83.jpg,Miscellaneous Trash,Miscellaneous Trash,0.99634141,Miscellaneous Trash | Metal,True
+Plastic/Plastic_334.jpg,Plastic,Plastic,0.93575191,Plastic | Miscellaneous Trash,True
+Metal/Metal_294.jpg,Metal,Metal,0.99530458,Metal | Glass,True
+Cardboard/Cardboard_65.jpg,Cardboard,Cardboard,0.95880610,Cardboard | Miscellaneous Trash,True
+Food Organics/Food Organics_246.jpg,Food Organics,Food Organics,0.99903774,Food Organics | Vegetation,True
+Plastic/Plastic_657.jpg,Plastic,Plastic,0.88589072,Plastic | Miscellaneous Trash,True
+Metal/Metal_323.jpg,Metal,Metal,0.91559768,Metal | Glass,True
+Food Organics/Food Organics_146.jpg,Food Organics,Food Organics,0.98735064,Food Organics | Miscellaneous Trash,True
+Metal/Metal_100.jpg,Metal,Plastic,0.97532541,Plastic | Miscellaneous Trash,False
+Plastic/Plastic_855.jpg,Plastic,Plastic,0.99844164,Plastic | Miscellaneous Trash,True
+Food Organics/Food Organics_323.jpg,Food Organics,Vegetation,0.93077976,Vegetation | Food Organics,False
+Textile Trash/Textile Trash_204.jpg,Textile Trash,Textile Trash,0.99324775,Textile Trash | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_342.jpg,Miscellaneous Trash,Miscellaneous Trash,0.56462580,Miscellaneous Trash | Paper,True
+Glass/Glass_29.jpg,Glass,Glass,0.96753132,Glass | Metal,True
+Vegetation/Vegetation_368.jpg,Vegetation,Vegetation,0.99996710,Vegetation | Food Organics,True
+Miscellaneous Trash/Miscellaneous Trash_52.jpg,Miscellaneous Trash,Miscellaneous Trash,0.96126455,Miscellaneous Trash | Food Organics,True
+Plastic/Plastic_34.jpg,Plastic,Metal,0.99126071,Metal | Glass,False
+Food Organics/Food Organics_302.jpg,Food Organics,Food Organics,0.99960011,Food Organics | Miscellaneous Trash,True
+Paper/Paper_220.jpg,Paper,Paper,0.99946517,Paper | Miscellaneous Trash,True
+Food Organics/Food Organics_184.jpg,Food Organics,Food Organics,0.77109975,Food Organics | Plastic,True
+Cardboard/Cardboard_325.jpg,Cardboard,Cardboard,0.99253416,Cardboard | Paper,True
+Paper/Paper_387.jpg,Paper,Paper,0.96444649,Paper | Textile Trash,True
+Plastic/Plastic_689.jpg,Plastic,Plastic,0.99457139,Plastic | Miscellaneous Trash,True
+Glass/Glass_2.jpg,Glass,Glass,0.55365622,Glass | Metal,True
+Metal/Metal_720.jpg,Metal,Metal,0.85966581,Metal | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_286.jpg,Miscellaneous Trash,Miscellaneous Trash,0.69412243,Miscellaneous Trash | Plastic,True
+Paper/Paper_64.jpg,Paper,Paper,0.99988616,Paper | Miscellaneous Trash,True
+Vegetation/Vegetation_59.jpg,Vegetation,Vegetation,0.99919480,Vegetation | Metal,True
+Plastic/Plastic_694.jpg,Plastic,Plastic,0.82273638,Plastic | Miscellaneous Trash,True
+Paper/Paper_469.jpg,Paper,Paper,0.99847049,Paper | Miscellaneous Trash,True
+Cardboard/Cardboard_402.jpg,Cardboard,Cardboard,0.82751787,Cardboard | Paper,True
+Plastic/Plastic_462.jpg,Plastic,Glass,0.56154859,Glass | Plastic,False
+Glass/Glass_312.jpg,Glass,Glass,0.85831320,Glass | Plastic,True
+Textile Trash/Textile Trash_298.jpg,Textile Trash,Textile Trash,0.91066700,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_31.jpg,Plastic,Cardboard,0.34367016,Cardboard | Miscellaneous Trash,False
+Textile Trash/Textile Trash_12.jpg,Textile Trash,Textile Trash,0.99801898,Textile Trash | Miscellaneous Trash,True
+Vegetation/Vegetation_100.jpg,Vegetation,Vegetation,0.99995947,Vegetation | Food Organics,True
+Miscellaneous Trash/Miscellaneous Trash_361.jpg,Miscellaneous Trash,Food Organics,0.97671026,Food Organics | Miscellaneous Trash,False
+Plastic/Plastic_655.jpg,Plastic,Food Organics,0.72045690,Food Organics | Miscellaneous Trash,False
+Paper/Paper_148.jpg,Paper,Paper,0.90690780,Paper | Cardboard,True
+Plastic/Plastic_387.jpg,Plastic,Miscellaneous Trash,0.63606799,Miscellaneous Trash | Textile Trash,False
+Textile Trash/Textile Trash_85.jpg,Textile Trash,Textile Trash,0.93365890,Textile Trash | Paper,True
+Cardboard/Cardboard_290.jpg,Cardboard,Cardboard,0.46446934,Cardboard | Metal,True
+Vegetation/Vegetation_212.jpg,Vegetation,Vegetation,0.99212098,Vegetation | Food Organics,True
+Cardboard/Cardboard_394.jpg,Cardboard,Miscellaneous Trash,0.37453789,Miscellaneous Trash | Cardboard,False
+Plastic/Plastic_719.jpg,Plastic,Plastic,0.97375512,Plastic | Metal,True
+Food Organics/Food Organics_130.jpg,Food Organics,Food Organics,0.99911684,Food Organics | Miscellaneous Trash,True
+Food Organics/Food Organics_35.jpg,Food Organics,Food Organics,0.99925762,Food Organics | Vegetation,True
+Food Organics/Food Organics_330.jpg,Food Organics,Food Organics,0.66234392,Food Organics | Miscellaneous Trash,True
+Textile Trash/Textile Trash_89.jpg,Textile Trash,Textile Trash,0.97753817,Textile Trash | Paper,True
+Plastic/Plastic_88.jpg,Plastic,Metal,0.65168762,Metal | Miscellaneous Trash,False
+Paper/Paper_400.jpg,Paper,Paper,0.96063137,Paper | Miscellaneous Trash,True
+Glass/Glass_413.jpg,Glass,Glass,0.90934563,Glass | Plastic,True
+Cardboard/Cardboard_336.jpg,Cardboard,Cardboard,0.97361720,Cardboard | Metal,True
+Food Organics/Food Organics_98.jpg,Food Organics,Food Organics,0.99968457,Food Organics | Miscellaneous Trash,True
+Plastic/Plastic_13.jpg,Plastic,Miscellaneous Trash,0.66716117,Miscellaneous Trash | Plastic,False
+Vegetation/Vegetation_386.jpg,Vegetation,Vegetation,0.99921322,Vegetation | Food Organics,True
+Plastic/Plastic_727.jpg,Plastic,Plastic,0.99755174,Plastic | Miscellaneous Trash,True
+Paper/Paper_296.jpg,Paper,Paper,0.99981838,Paper | Miscellaneous Trash,True
+Vegetation/Vegetation_397.jpg,Vegetation,Vegetation,0.99624795,Vegetation | Miscellaneous Trash,True
+Textile Trash/Textile Trash_147.jpg,Textile Trash,Textile Trash,0.99298179,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_410.jpg,Plastic,Plastic,0.82565999,Plastic | Cardboard,True
+Paper/Paper_92.jpg,Paper,Paper,0.97866082,Paper | Miscellaneous Trash,True
+Vegetation/Vegetation_82.jpg,Vegetation,Vegetation,0.99970764,Vegetation | Food Organics,True
+Miscellaneous Trash/Miscellaneous Trash_16.jpg,Miscellaneous Trash,Miscellaneous Trash,0.94717604,Miscellaneous Trash | Food Organics,True
+Plastic/Plastic_492.jpg,Plastic,Plastic,0.54627347,Plastic | Metal,True
+Plastic/Plastic_436.jpg,Plastic,Glass,0.66385782,Glass | Plastic,False
+Metal/Metal_528.jpg,Metal,Metal,0.99843353,Metal | Paper,True
+Plastic/Plastic_112.jpg,Plastic,Plastic,0.88515389,Plastic | Miscellaneous Trash,True
+Plastic/Plastic_496.jpg,Plastic,Glass,0.96313429,Glass | Plastic,False
+Food Organics/Food Organics_19.jpg,Food Organics,Food Organics,0.83948058,Food Organics | Miscellaneous Trash,True
+Plastic/Plastic_897.jpg,Plastic,Plastic,0.71352696,Plastic | Glass,True
+Metal/Metal_657.jpg,Metal,Metal,0.69010550,Metal | Plastic,True
+Food Organics/Food Organics_320.jpg,Food Organics,Food Organics,0.73855591,Food Organics | Vegetation,True
+Glass/Glass_121.jpg,Glass,Glass,0.99080819,Glass | Metal,True
+Metal/Metal_88.jpg,Metal,Metal,0.99925476,Metal | Glass,True
+Metal/Metal_213.jpg,Metal,Metal,0.94722998,Metal | Glass,True
+Metal/Metal_362.jpg,Metal,Metal,0.99594790,Metal | Plastic,True
+Metal/Metal_116.jpg,Metal,Metal,0.94570965,Metal | Paper,True
+Vegetation/Vegetation_243.jpg,Vegetation,Vegetation,0.97911799,Vegetation | Food Organics,True
+Cardboard/Cardboard_99.jpg,Cardboard,Cardboard,0.47054097,Cardboard | Miscellaneous Trash,True
+Metal/Metal_74.jpg,Metal,Metal,0.93590558,Metal | Miscellaneous Trash,True
+Metal/Metal_412.jpg,Metal,Metal,0.99852520,Metal | Miscellaneous Trash,True
+Plastic/Plastic_385.jpg,Plastic,Paper,0.65210909,Paper | Miscellaneous Trash,False
+Metal/Metal_433.jpg,Metal,Metal,0.99942029,Metal | Miscellaneous Trash,True
+Metal/Metal_753.jpg,Metal,Metal,0.98444968,Metal | Plastic,True
+Textile Trash/Textile Trash_230.jpg,Textile Trash,Textile Trash,0.99845505,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_519.jpg,Plastic,Plastic,0.68384868,Plastic | Textile Trash,True
+Plastic/Plastic_447.jpg,Plastic,Plastic,0.65801454,Plastic | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_144.jpg,Miscellaneous Trash,Miscellaneous Trash,0.77702814,Miscellaneous Trash | Plastic,True
+Cardboard/Cardboard_138.jpg,Cardboard,Metal,0.87819201,Metal | Paper,False
+Glass/Glass_219.jpg,Glass,Glass,0.99955839,Glass | Textile Trash,True
+Paper/Paper_241.jpg,Paper,Paper,0.99456513,Paper | Miscellaneous Trash,True
+Vegetation/Vegetation_281.jpg,Vegetation,Vegetation,0.48782039,Vegetation | Food Organics,True
+Vegetation/Vegetation_117.jpg,Vegetation,Vegetation,0.99728394,Vegetation | Food Organics,True
+Cardboard/Cardboard_453.jpg,Cardboard,Cardboard,0.99423766,Cardboard | Miscellaneous Trash,True
+Paper/Paper_158.jpg,Paper,Metal,0.62531883,Metal | Paper,False
+Cardboard/Cardboard_337.jpg,Cardboard,Cardboard,0.95360547,Cardboard | Glass,True
+Vegetation/Vegetation_178.jpg,Vegetation,Vegetation,0.99855262,Vegetation | Food Organics,True
+Plastic/Plastic_809.jpg,Plastic,Plastic,0.98161501,Plastic | Miscellaneous Trash,True
+Glass/Glass_77.jpg,Glass,Glass,0.98077768,Glass | Metal,True
+Paper/Paper_115.jpg,Paper,Paper,0.57534641,Paper | Miscellaneous Trash,True
+Plastic/Plastic_7.jpg,Plastic,Plastic,0.90262687,Plastic | Miscellaneous Trash,True
+Plastic/Plastic_105.jpg,Plastic,Plastic,0.97480279,Plastic | Metal,True
+Metal/Metal_438.jpg,Metal,Metal,0.97471118,Metal | Miscellaneous Trash,True
+Glass/Glass_8.jpg,Glass,Glass,0.98106408,Glass | Plastic,True
+Vegetation/Vegetation_381.jpg,Vegetation,Vegetation,0.99975616,Vegetation | Food Organics,True
+Paper/Paper_82.jpg,Paper,Paper,0.99915648,Paper | Miscellaneous Trash,True
+Food Organics/Food Organics_33.jpg,Food Organics,Food Organics,0.99212295,Food Organics | Miscellaneous Trash,True
+Glass/Glass_254.jpg,Glass,Glass,0.99800652,Glass | Metal,True
+Cardboard/Cardboard_429.jpg,Cardboard,Cardboard,0.99801493,Cardboard | Paper,True
+Textile Trash/Textile Trash_211.jpg,Textile Trash,Textile Trash,0.99556410,Textile Trash | Metal,True
+Metal/Metal_740.jpg,Metal,Metal,0.81294870,Metal | Miscellaneous Trash,True
+Plastic/Plastic_28.jpg,Plastic,Plastic,0.97666126,Plastic | Glass,True
+Plastic/Plastic_191.jpg,Plastic,Plastic,0.71296209,Plastic | Paper,True
+Metal/Metal_606.jpg,Metal,Metal,0.99776697,Metal | Plastic,True
+Food Organics/Food Organics_89.jpg,Food Organics,Food Organics,0.98701185,Food Organics | Plastic,True
+Miscellaneous Trash/Miscellaneous Trash_392.jpg,Miscellaneous Trash,Food Organics,0.65308839,Food Organics | Miscellaneous Trash,False
+Plastic/Plastic_834.jpg,Plastic,Glass,0.63214540,Glass | Metal,False
+Glass/Glass_140.jpg,Glass,Glass,0.99980420,Glass | Metal,True
+Plastic/Plastic_75.jpg,Plastic,Plastic,0.53981096,Plastic | Miscellaneous Trash,True
+Textile Trash/Textile Trash_274.jpg,Textile Trash,Textile Trash,0.99929166,Textile Trash | Miscellaneous Trash,True
+Metal/Metal_92.jpg,Metal,Metal,0.67085505,Metal | Plastic,True
+Plastic/Plastic_535.jpg,Plastic,Textile Trash,0.66237289,Textile Trash | Plastic,False
+Plastic/Plastic_351.jpg,Plastic,Plastic,0.77768093,Plastic | Metal,True
+Metal/Metal_705.jpg,Metal,Metal,0.99283010,Metal | Plastic,True
+Vegetation/Vegetation_168.jpg,Vegetation,Vegetation,0.99944037,Vegetation | Miscellaneous Trash,True
+Glass/Glass_215.jpg,Glass,Glass,0.99983692,Glass | Metal,True
+Paper/Paper_213.jpg,Paper,Textile Trash,0.82225835,Textile Trash | Paper,False
+Miscellaneous Trash/Miscellaneous Trash_225.jpg,Miscellaneous Trash,Miscellaneous Trash,0.95095921,Miscellaneous Trash | Food Organics,True
+Miscellaneous Trash/Miscellaneous Trash_371.jpg,Miscellaneous Trash,Miscellaneous Trash,0.87820280,Miscellaneous Trash | Food Organics,True
+Food Organics/Food Organics_260.jpg,Food Organics,Food Organics,0.99383932,Food Organics | Vegetation,True
+Plastic/Plastic_848.jpg,Plastic,Plastic,0.91422361,Plastic | Metal,True
+Textile Trash/Textile Trash_217.jpg,Textile Trash,Textile Trash,0.65270454,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_281.jpg,Plastic,Glass,0.80145556,Glass | Metal,False
+Paper/Paper_309.jpg,Paper,Paper,0.99806875,Paper | Textile Trash,True
+Glass/Glass_52.jpg,Glass,Glass,0.66333824,Glass | Textile Trash,True
+Paper/Paper_178.jpg,Paper,Cardboard,0.53092569,Cardboard | Paper,False
+Paper/Paper_299.jpg,Paper,Paper,0.81821471,Paper | Miscellaneous Trash,True
+Vegetation/Vegetation_280.jpg,Vegetation,Vegetation,0.99123740,Vegetation | Food Organics,True
+Plastic/Plastic_651.jpg,Plastic,Plastic,0.93235952,Plastic | Miscellaneous Trash,True
+Metal/Metal_99.jpg,Metal,Metal,0.99798715,Metal | Glass,True
+Miscellaneous Trash/Miscellaneous Trash_58.jpg,Miscellaneous Trash,Miscellaneous Trash,0.99526572,Miscellaneous Trash | Paper,True
+Vegetation/Vegetation_190.jpg,Vegetation,Vegetation,0.99958390,Vegetation | Food Organics,True
+Metal/Metal_710.jpg,Metal,Metal,0.97727638,Metal | Miscellaneous Trash,True
+Vegetation/Vegetation_330.jpg,Vegetation,Vegetation,0.99835348,Vegetation | Food Organics,True
+Food Organics/Food Organics_295.jpg,Food Organics,Food Organics,0.98822987,Food Organics | Vegetation,True
+Miscellaneous Trash/Miscellaneous Trash_23.jpg,Miscellaneous Trash,Miscellaneous Trash,0.97950453,Miscellaneous Trash | Food Organics,True
+Metal/Metal_358.jpg,Metal,Metal,0.99786574,Metal | Miscellaneous Trash,True
+Metal/Metal_618.jpg,Metal,Metal,0.99980038,Metal | Paper,True
+Plastic/Plastic_338.jpg,Plastic,Miscellaneous Trash,0.36703056,Miscellaneous Trash | Food Organics,False
+Plastic/Plastic_236.jpg,Plastic,Plastic,0.96972400,Plastic | Metal,True
+Paper/Paper_74.jpg,Paper,Paper,0.85758114,Paper | Miscellaneous Trash,True
+Vegetation/Vegetation_69.jpg,Vegetation,Vegetation,0.99986720,Vegetation | Food Organics,True
+Cardboard/Cardboard_310.jpg,Cardboard,Cardboard,0.97797364,Cardboard | Paper,True
+Paper/Paper_31.jpg,Paper,Paper,0.99586797,Paper | Miscellaneous Trash,True
+Metal/Metal_153.jpg,Metal,Metal,0.72995681,Metal | Miscellaneous Trash,True
+Metal/Metal_229.jpg,Metal,Metal,0.85704523,Metal | Cardboard,True
+Metal/Metal_592.jpg,Metal,Metal,0.99220431,Metal | Paper,True
+Metal/Metal_784.jpg,Metal,Metal,0.98459792,Metal | Glass,True
+Plastic/Plastic_60.jpg,Plastic,Metal,0.34169829,Metal | Paper,False
+Paper/Paper_437.jpg,Paper,Cardboard,0.33769968,Cardboard | Metal,False
+Plastic/Plastic_792.jpg,Plastic,Plastic,0.66491431,Plastic | Glass,True
+Paper/Paper_19.jpg,Paper,Paper,0.99980587,Paper | Metal,True
+Metal/Metal_346.jpg,Metal,Metal,0.99767381,Metal | Textile Trash,True
+Food Organics/Food Organics_265.jpg,Food Organics,Food Organics,0.97240847,Food Organics | Miscellaneous Trash,True
+Plastic/Plastic_672.jpg,Plastic,Miscellaneous Trash,0.46374965,Miscellaneous Trash | Plastic,False
+Miscellaneous Trash/Miscellaneous Trash_348.jpg,Miscellaneous Trash,Metal,0.35090071,Metal | Miscellaneous Trash,False
+Metal/Metal_113.jpg,Metal,Metal,0.99957711,Metal | Paper,True
+Textile Trash/Textile Trash_26.jpg,Textile Trash,Textile Trash,0.99489945,Textile Trash | Metal,True
+Food Organics/Food Organics_405.jpg,Food Organics,Food Organics,0.97030336,Food Organics | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_434.jpg,Miscellaneous Trash,Miscellaneous Trash,0.97739172,Miscellaneous Trash | Food Organics,True
+Metal/Metal_542.jpg,Metal,Metal,0.99248368,Metal | Plastic,True
+Cardboard/Cardboard_19.jpg,Cardboard,Cardboard,0.99374962,Cardboard | Paper,True
+Miscellaneous Trash/Miscellaneous Trash_491.jpg,Miscellaneous Trash,Food Organics,0.45785546,Food Organics | Miscellaneous Trash,False
+Cardboard/Cardboard_64.jpg,Cardboard,Cardboard,0.99924797,Cardboard | Metal,True
+Plastic/Plastic_860.jpg,Plastic,Plastic,0.81029105,Plastic | Metal,True
+Metal/Metal_46.jpg,Metal,Metal,0.99840647,Metal | Paper,True
+Glass/Glass_271.jpg,Glass,Glass,0.99189055,Glass | Metal,True
+Textile Trash/Textile Trash_316.jpg,Textile Trash,Textile Trash,0.97525293,Textile Trash | Miscellaneous Trash,True
+Vegetation/Vegetation_197.jpg,Vegetation,Vegetation,0.99945539,Vegetation | Food Organics,True
+Paper/Paper_270.jpg,Paper,Paper,0.99416828,Paper | Textile Trash,True
+Plastic/Plastic_206.jpg,Plastic,Plastic,0.97467947,Plastic | Miscellaneous Trash,True
+Textile Trash/Textile Trash_232.jpg,Textile Trash,Textile Trash,0.99584913,Textile Trash | Metal,True
+Paper/Paper_446.jpg,Paper,Paper,0.67323613,Paper | Miscellaneous Trash,True
+Food Organics/Food Organics_109.jpg,Food Organics,Food Organics,0.98927289,Food Organics | Miscellaneous Trash,True
+Plastic/Plastic_808.jpg,Plastic,Plastic,0.98138452,Plastic | Miscellaneous Trash,True
+Food Organics/Food Organics_154.jpg,Food Organics,Food Organics,0.99622715,Food Organics | Vegetation,True
+Miscellaneous Trash/Miscellaneous Trash_204.jpg,Miscellaneous Trash,Miscellaneous Trash,0.96647382,Miscellaneous Trash | Cardboard,True
+Vegetation/Vegetation_415.jpg,Vegetation,Vegetation,0.99954981,Vegetation | Food Organics,True
+Plastic/Plastic_659.jpg,Plastic,Plastic,0.98815572,Plastic | Miscellaneous Trash,True
+Metal/Metal_40.jpg,Metal,Metal,0.92435372,Metal | Plastic,True
+Textile Trash/Textile Trash_311.jpg,Textile Trash,Textile Trash,0.99916852,Textile Trash | Miscellaneous Trash,True
+Food Organics/Food Organics_200.jpg,Food Organics,Food Organics,0.99685526,Food Organics | Metal,True
+Metal/Metal_302.jpg,Metal,Plastic,0.74771601,Plastic | Metal,False
+Vegetation/Vegetation_233.jpg,Vegetation,Vegetation,0.99679524,Vegetation | Food Organics,True
+Textile Trash/Textile Trash_191.jpg,Textile Trash,Textile Trash,0.99980110,Textile Trash | Paper,True
+Metal/Metal_485.jpg,Metal,Metal,0.99797434,Metal | Miscellaneous Trash,True
+Metal/Metal_425.jpg,Metal,Metal,0.89130664,Metal | Paper,True
+Vegetation/Vegetation_248.jpg,Vegetation,Vegetation,0.99764532,Vegetation | Food Organics,True
+Textile Trash/Textile Trash_92.jpg,Textile Trash,Textile Trash,0.69079202,Textile Trash | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_387.jpg,Miscellaneous Trash,Miscellaneous Trash,0.74965286,Miscellaneous Trash | Vegetation,True
+Plastic/Plastic_876.jpg,Plastic,Plastic,0.98844928,Plastic | Miscellaneous Trash,True
+Plastic/Plastic_766.jpg,Plastic,Metal,0.60307914,Metal | Plastic,False
+Vegetation/Vegetation_405.jpg,Vegetation,Vegetation,0.99953020,Vegetation | Food Organics,True
+Miscellaneous Trash/Miscellaneous Trash_443.jpg,Miscellaneous Trash,Miscellaneous Trash,0.93105692,Miscellaneous Trash | Food Organics,True
+Metal/Metal_697.jpg,Metal,Metal,0.98798996,Metal | Plastic,True
+Paper/Paper_289.jpg,Paper,Paper,0.99640012,Paper | Cardboard,True
+Plastic/Plastic_16.jpg,Plastic,Cardboard,0.40731901,Cardboard | Metal,False
+Food Organics/Food Organics_95.jpg,Food Organics,Food Organics,0.88969553,Food Organics | Miscellaneous Trash,True
+Plastic/Plastic_649.jpg,Plastic,Plastic,0.96635199,Plastic | Miscellaneous Trash,True
+Plastic/Plastic_883.jpg,Plastic,Plastic,0.99838686,Plastic | Miscellaneous Trash,True
+Glass/Glass_3.jpg,Glass,Glass,0.99053419,Glass | Metal,True
+Paper/Paper_132.jpg,Paper,Paper,0.98990530,Paper | Cardboard,True
+Paper/Paper_353.jpg,Paper,Paper,0.99457353,Paper | Cardboard,True
+Paper/Paper_489.jpg,Paper,Paper,0.99990451,Paper | Miscellaneous Trash,True
+Metal/Metal_600.jpg,Metal,Metal,0.99951220,Metal | Glass,True
+Vegetation/Vegetation_283.jpg,Vegetation,Vegetation,0.99999511,Vegetation | Food Organics,True
+Plastic/Plastic_308.jpg,Plastic,Plastic,0.77705640,Plastic | Miscellaneous Trash,True
+Plastic/Plastic_839.jpg,Plastic,Plastic,0.91749752,Plastic | Glass,True
+Plastic/Plastic_291.jpg,Plastic,Glass,0.78399593,Glass | Miscellaneous Trash,False
+Metal/Metal_539.jpg,Metal,Metal,0.96970630,Metal | Textile Trash,True
+Paper/Paper_163.jpg,Paper,Paper,0.99733007,Paper | Cardboard,True
+Glass/Glass_253.jpg,Glass,Glass,0.99962687,Glass | Metal,True
+Metal/Metal_532.jpg,Metal,Metal,0.99999440,Metal | Textile Trash,True
+Glass/Glass_136.jpg,Glass,Glass,0.96911466,Glass | Metal,True
+Cardboard/Cardboard_34.jpg,Cardboard,Metal,0.77039927,Metal | Cardboard,False
+Textile Trash/Textile Trash_246.jpg,Textile Trash,Textile Trash,0.99934655,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_614.jpg,Plastic,Plastic,0.93786818,Plastic | Cardboard,True
+Cardboard/Cardboard_178.jpg,Cardboard,Cardboard,0.49628946,Cardboard | Plastic,True
+Plastic/Plastic_487.jpg,Plastic,Plastic,0.95579606,Plastic | Miscellaneous Trash,True
+Vegetation/Vegetation_291.jpg,Vegetation,Vegetation,0.99995649,Vegetation | Food Organics,True
+Vegetation/Vegetation_29.jpg,Vegetation,Vegetation,0.99917799,Vegetation | Food Organics,True
+Cardboard/Cardboard_412.jpg,Cardboard,Paper,0.72546250,Paper | Cardboard,False
+Glass/Glass_224.jpg,Glass,Glass,0.85905933,Glass | Metal,True
+Plastic/Plastic_87.jpg,Plastic,Miscellaneous Trash,0.72443038,Miscellaneous Trash | Metal,False
+Textile Trash/Textile Trash_222.jpg,Textile Trash,Textile Trash,0.99952972,Textile Trash | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_346.jpg,Miscellaneous Trash,Miscellaneous Trash,0.90659827,Miscellaneous Trash | Textile Trash,True
+Cardboard/Cardboard_457.jpg,Cardboard,Cardboard,0.99020398,Cardboard | Glass,True
+Plastic/Plastic_682.jpg,Plastic,Plastic,0.99723476,Plastic | Miscellaneous Trash,True
+Cardboard/Cardboard_365.jpg,Cardboard,Cardboard,0.92258596,Cardboard | Paper,True
+Metal/Metal_317.jpg,Metal,Cardboard,0.63364661,Cardboard | Plastic,False
+Metal/Metal_555.jpg,Metal,Metal,0.99984169,Metal | Paper,True
+Food Organics/Food Organics_261.jpg,Food Organics,Food Organics,0.89546615,Food Organics | Vegetation,True
+Vegetation/Vegetation_300.jpg,Vegetation,Vegetation,0.99701083,Vegetation | Metal,True
+Plastic/Plastic_485.jpg,Plastic,Plastic,0.98779893,Plastic | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_39.jpg,Miscellaneous Trash,Miscellaneous Trash,0.98149616,Miscellaneous Trash | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_440.jpg,Miscellaneous Trash,Miscellaneous Trash,0.59710985,Miscellaneous Trash | Food Organics,True
+Glass/Glass_69.jpg,Glass,Glass,0.99299604,Glass | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_452.jpg,Miscellaneous Trash,Miscellaneous Trash,0.90402138,Miscellaneous Trash | Textile Trash,True
+Paper/Paper_470.jpg,Paper,Paper,0.96516067,Paper | Miscellaneous Trash,True
+Food Organics/Food Organics_136.jpg,Food Organics,Food Organics,0.89304680,Food Organics | Miscellaneous Trash,True
+Cardboard/Cardboard_76.jpg,Cardboard,Cardboard,0.94460922,Cardboard | Metal,True
+Metal/Metal_652.jpg,Metal,Metal,0.98623013,Metal | Glass,True
+Paper/Paper_100.jpg,Paper,Paper,0.91061610,Paper | Textile Trash,True
+Metal/Metal_787.jpg,Metal,Metal,0.99887830,Metal | Glass,True
+Metal/Metal_313.jpg,Metal,Cardboard,0.55098718,Cardboard | Metal,False
+Plastic/Plastic_829.jpg,Plastic,Glass,0.50153422,Glass | Plastic,False
+Glass/Glass_23.jpg,Glass,Vegetation,0.60477155,Vegetation | Miscellaneous Trash,False
+Cardboard/Cardboard_448.jpg,Cardboard,Cardboard,0.99949586,Cardboard | Miscellaneous Trash,True
+Plastic/Plastic_555.jpg,Plastic,Plastic,0.96164829,Plastic | Cardboard,True
+Food Organics/Food Organics_73.jpg,Food Organics,Metal,0.88670456,Metal | Food Organics,False
+Miscellaneous Trash/Miscellaneous Trash_488.jpg,Miscellaneous Trash,Textile Trash,0.68042248,Textile Trash | Miscellaneous Trash,False
+Metal/Metal_216.jpg,Metal,Metal,0.97397637,Metal | Miscellaneous Trash,True
+Paper/Paper_207.jpg,Paper,Paper,0.99462974,Paper | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_10.jpg,Miscellaneous Trash,Miscellaneous Trash,0.89611971,Miscellaneous Trash | Metal,True
+Miscellaneous Trash/Miscellaneous Trash_49.jpg,Miscellaneous Trash,Metal,0.45431870,Metal | Miscellaneous Trash,False
+Food Organics/Food Organics_101.jpg,Food Organics,Miscellaneous Trash,0.95732552,Miscellaneous Trash | Food Organics,False
+Textile Trash/Textile Trash_250.jpg,Textile Trash,Textile Trash,0.99982268,Textile Trash | Miscellaneous Trash,True
+Plastic/Plastic_668.jpg,Plastic,Plastic,0.96178246,Plastic | Miscellaneous Trash,True
+Cardboard/Cardboard_155.jpg,Cardboard,Cardboard,0.99223012,Cardboard | Miscellaneous Trash,True
+Vegetation/Vegetation_265.jpg,Vegetation,Vegetation,0.99833626,Vegetation | Food Organics,True
+Vegetation/Vegetation_131.jpg,Vegetation,Vegetation,0.99749678,Vegetation | Textile Trash,True
+Paper/Paper_127.jpg,Paper,Paper,0.97569388,Paper | Textile Trash,True
+Food Organics/Food Organics_140.jpg,Food Organics,Food Organics,0.72494859,Food Organics | Miscellaneous Trash,True
+Glass/Glass_336.jpg,Glass,Glass,0.99991596,Glass | Metal,True
+Textile Trash/Textile Trash_36.jpg,Textile Trash,Textile Trash,0.99878603,Textile Trash | Paper,True
+Metal/Metal_498.jpg,Metal,Metal,0.99417287,Metal | Miscellaneous Trash,True
+Glass/Glass_120.jpg,Glass,Glass,0.99878198,Glass | Cardboard,True
+Vegetation/Vegetation_396.jpg,Vegetation,Vegetation,0.99988329,Vegetation | Food Organics,True
+Plastic/Plastic_777.jpg,Plastic,Metal,0.48564184,Metal | Plastic,False
+Plastic/Plastic_573.jpg,Plastic,Plastic,0.98306215,Plastic | Metal,True
+Plastic/Plastic_541.jpg,Plastic,Plastic,0.93402416,Plastic | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_168.jpg,Miscellaneous Trash,Miscellaneous Trash,0.99471867,Miscellaneous Trash | Textile Trash,True
+Miscellaneous Trash/Miscellaneous Trash_281.jpg,Miscellaneous Trash,Miscellaneous Trash,0.47552431,Miscellaneous Trash | Vegetation,True
+Plastic/Plastic_27.jpg,Plastic,Plastic,0.98997140,Plastic | Miscellaneous Trash,True
+Glass/Glass_160.jpg,Glass,Glass,0.99526668,Glass | Textile Trash,True
+Miscellaneous Trash/Miscellaneous Trash_7.jpg,Miscellaneous Trash,Miscellaneous Trash,0.95504814,Miscellaneous Trash | Textile Trash,True
+Cardboard/Cardboard_387.jpg,Cardboard,Cardboard,0.93508226,Cardboard | Paper,True
+Paper/Paper_441.jpg,Paper,Paper,0.97491145,Paper | Miscellaneous Trash,True
+Food Organics/Food Organics_336.jpg,Food Organics,Food Organics,0.99885821,Food Organics | Vegetation,True
+Food Organics/Food Organics_60.jpg,Food Organics,Food Organics,0.99963784,Food Organics | Miscellaneous Trash,True
+Miscellaneous Trash/Miscellaneous Trash_24.jpg,Miscellaneous Trash,Miscellaneous Trash,0.93889207,Miscellaneous Trash | Textile Trash,True
+Textile Trash/Textile Trash_65.jpg,Textile Trash,Textile Trash,0.93220419,Textile Trash | Paper,True
+Paper/Paper_176.jpg,Paper,Paper,0.83935499,Paper | Cardboard,True
+Cardboard/Cardboard_377.jpg,Cardboard,Cardboard,0.98065305,Cardboard | Miscellaneous Trash,True
+Paper/Paper_268.jpg,Paper,Miscellaneous Trash,0.78663158,Miscellaneous Trash | Paper,False
+Miscellaneous Trash/Miscellaneous Trash_45.jpg,Miscellaneous Trash,Miscellaneous Trash,0.75160009,Miscellaneous Trash | Metal,True
+Plastic/Plastic_73.jpg,Plastic,Paper,0.42686480,Paper | Metal,False
+Miscellaneous Trash/Miscellaneous Trash_21.jpg,Miscellaneous Trash,Miscellaneous Trash,0.70790899,Miscellaneous Trash | Vegetation,True
+Miscellaneous Trash/Miscellaneous Trash_106.jpg,Miscellaneous Trash,Miscellaneous Trash,0.99854833,Miscellaneous Trash | Paper,True
+Cardboard/Cardboard_280.jpg,Cardboard,Cardboard,0.68878645,Cardboard | Metal,True
+Metal/Metal_427.jpg,Metal,Metal,0.99653578,Metal | Paper,True
+Metal/Metal_25.jpg,Metal,Metal,0.99384272,Metal | Glass,True
+Metal/Metal_488.jpg,Metal,Metal,0.99934095,Metal | Miscellaneous Trash,True
+Glass/Glass_407.jpg,Glass,Metal,0.47977155,Metal | Glass,False
+Cardboard/Cardboard_330.jpg,Cardboard,Cardboard,0.98789990,Cardboard | Paper,True
+Vegetation/Vegetation_332.jpg,Vegetation,Vegetation,0.99877888,Vegetation | Food Organics,True
+Glass/Glass_129.jpg,Glass,Glass,0.98188776,Glass | Metal,True
+Metal/Metal_426.jpg,Metal,Metal,0.99973398,Metal | Textile Trash,True
+Textile Trash/Textile Trash_66.jpg,Textile Trash,Textile Trash,0.99445516,Textile Trash | Miscellaneous Trash,True
+Paper/Paper_487.jpg,Paper,Paper,0.68819880,Paper | Miscellaneous Trash,True
+Paper/Paper_310.jpg,Paper,Paper,0.82749450,Paper | Textile Trash,True
+Miscellaneous Trash/Miscellaneous Trash_235.jpg,Miscellaneous Trash,Miscellaneous Trash,0.90407217,Miscellaneous Trash | Textile Trash,True
+Food Organics/Food Organics_55.jpg,Food Organics,Food Organics,0.99075317,Food Organics | Cardboard,True
