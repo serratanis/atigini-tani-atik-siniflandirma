@@ -2,6 +2,11 @@
 
 Atığını Tanı, gerçek bir depolama sahasında çekilmiş atık görüntülerini dokuz malzeme sınıfından birine ayıran derin öğrenme projesidir. Çalışma yalnızca toplam doğruluğu değil; sınıf dengesi, macro precision–recall–F1, confusion matrix ve yanlış tahmin örneklerini birlikte değerlendirir.
 
+## Proje bağlantıları
+
+- **GitHub:** [serratanis/atigini-tani-atik-siniflandirma](https://github.com/serratanis/atigini-tani-atik-siniflandirma)
+- **Google Colab:** [Atığını Tanı çalışma defterini aç](https://colab.research.google.com/github/serratanis/atigini-tani-atik-siniflandirma/blob/main/notebooks/Atigini_Tani_RealWaste.ipynb)
+
 ## Problem
 
 Girdi, tek bir RGB atık görüntüsüdür. Hedef; görüntüyü `Cardboard`, `Food Organics`, `Glass`, `Metal`, `Miscellaneous Trash`, `Paper`, `Plastic`, `Textile Trash` veya `Vegetation` sınıfına atamaktır. Böyle bir karar desteği, ayrıştırma hattında insan kontrolünü destekleyebilir; ancak proje modeli gerçek bir tesis kontrol sistemi olarak sunmaz.
@@ -28,6 +33,14 @@ Girdi, tek bir RGB atık görüntüsüdür. Hedef; görüntüyü `Cardboard`, `F
 - Accuracy, macro/weighted precision–recall–F1, top-2 accuracy ve confusion matrix
 
 ## Çalıştırma
+
+### Mac'te çift tıklayarak açma
+
+`UYGULAMAYI-BASLAT.command` dosyasına çift tıklayın. İlk açılışta gerekli paketler otomatik kurulur; bu işlem birkaç dakika sürebilir. Ardından uygulama varsayılan tarayıcıda açılır. Uygulamayı kullanırken açılan Terminal penceresini kapatmayın.
+
+macOS güvenlik uyarısı gösterirse dosyaya sağ tıklayıp **Aç** seçeneğini kullanın.
+
+### Terminal ile açma
 
 İlk kurulumda:
 

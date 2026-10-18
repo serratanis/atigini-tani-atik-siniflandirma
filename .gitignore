@@ -1,5 +1,7 @@
 .DS_Store
 .venv/
+.agents/
+.claude/
 __pycache__/
 *.pyc
 data/raw/
