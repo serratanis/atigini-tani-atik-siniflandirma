@@ -29,9 +29,9 @@
 - En güçlü F1: Vegetation %92,65
 - Ana iyileştirme alanları: Miscellaneous Trash %74,51; Plastic %77,97
 
-## Teslimden önce kişisel hesapta tamamlanacak iki adım
+## Yayın bağlantıları
 
-- [ ] Projeyi public GitHub deposuna yükleyip rapordaki bağlantı alanını gerçek URL ile güncelle.
-- [ ] Notebook'u kişisel Google Colab hesabına yükleyip paylaşım bağlantısını rapora ekle.
+- [x] Public GitHub deposu: <https://github.com/serratanis/atigini-tani-atik-siniflandirma>
+- [x] Google Colab çalışma defteri: <https://colab.research.google.com/github/serratanis/atigini-tani-atik-siniflandirma/blob/main/notebooks/Atigini_Tani_RealWaste.ipynb>
 
 Ham RealWaste görüntüleri lisans ve paket boyutu nedeniyle teslim ZIP'ine eklenmez. Veri, `bash scripts/download_data.sh` komutuyla resmî yazar deposundan yeniden indirilebilir.

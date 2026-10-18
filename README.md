@@ -74,7 +74,7 @@ Komut; veri bölme kaydını, üç keşif görselini, eğitim eğrilerini, confu
 - Çoğunluk sınıfı baseline: **%19,38**
 - Model: 2.235.401 parametreli MobileNetV2, 4 doğrulanmış fine-tuning epoch'u
 
-Tüm sınıf metrikleri, confusion matrix ve hata analizi `deliverables/Atigini-Tani-Proje-Raporu.pdf` içinde yer alır.
+Tüm sınıf metrikleri, karışıklık matrisi ve hata analizi `deliverables/Atigini-Tani-Proje-Raporu-Gelistirilmis-v3.pdf` içinde yer alır.
 
 ## Teslim yapısı
 
